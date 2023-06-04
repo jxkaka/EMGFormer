@@ -2,7 +2,7 @@
 This is the source code for "Movement Recognition via Channel-Activation-Wise sEMG Attention"
 
 
-# Automated Sleep Staging via Parallel Frequency-Cut Attention
+# Movement Recognition via Channel-Activation-Wise sEMG Attention
 
 Jiaxuan Zhanga, Yuki Matsuda, Manato Fujimoto, Hirohiko Suwa and Keiichi Yasumotoa
 
